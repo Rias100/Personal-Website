@@ -1,6 +1,6 @@
 this is a Portfolio Website
 
-** Plese check the Demo video "Portfolio2.mp4" to see the result **
+**Plese check the Demo video "Portfolio2.mp4" to see the result**
 
 to use the code, 
 1. upload the code to your PC pr clone using git clone
